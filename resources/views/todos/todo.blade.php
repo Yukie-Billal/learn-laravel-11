@@ -1,7 +1,5 @@
 <x-app-layout>
-    <form class="todo-form" action="#">
-        <input type="text" placeholder="Todo">
-    </form>
+    <livewire:add-todo></livewire:add-todo>
     <div class="todo-list">
         <ul>
             <li>HELLO</li>
